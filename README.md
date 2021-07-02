@@ -2,7 +2,9 @@
 
 Link do Classroom: <https://classroom.github.com/a/hXvcCMIK>
 
-[Solicitações especiais ...](https://www.youtube.com/watch?v=YdVQzJKx1F4)
+[Solicitações especiais ...](https://youtu.be/YdVQzJKx1F4)
+
+
 
 ## Implementar e testar segundo as especificações
 
