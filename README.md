@@ -14,7 +14,9 @@ Link do Classroom: <https://classroom.github.com/a/hXvcCMIK>
 
 ### Implementar a agregação esperada para o Sistema Torneio
 
-Implementar o Sistema de Torneio especificado em [App.java](src/App.java). Todas as classes do modelo devem ficar no pacote [model](src/model/).
+Implementar o Sistema de Torneio especificado em [App2.java](src/App2.java). Todas as classes do modelo devem ficar no pacote [model](src/model/).
+
+Obs.: eu mantive o arquivo [App.java](src/App.java), que era a primeira versão desta atividade, mas que ficou muito complexa para o ponto em que está na disciplina (5ta semana). Faça o [App2.java](src/App2.java).
 
 
 

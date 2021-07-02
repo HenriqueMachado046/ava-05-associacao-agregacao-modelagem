@@ -1,5 +1,5 @@
 
-class App {
+class App { // ESTA É A VERSÃO ANTIGA, MAIS COMPLEXA, NÃO FAÇA ESTA (SE NÃO QUISER SOFRER 🥲)
   public static void main(String[] args) {
     System.out.println("Olá mundo!");
 
@@ -131,7 +131,8 @@ class App {
     // terceiro e último set
     System.out.println(torneioObjetos.getJogoAtual().getSet(2) == null);
     torneioObjetos.getJogoAtual().fecharSet(25, 20);
-    System.out.println(torneioObjetos.getJogoAtual().getSet(2) != null); // há um terceiro set
+    // PATCH: System.out.println(torneioObjetos.getJogoAtual().getSet(2) != null); // há um terceiro set
+    System.out.println(torneioObjetos.getJogo(0).getSet(2) != null); // há um terceiro set
 
     // após três sets ganhos os sets não são mais fechados
     torneioObjetos.getJogo(0).fecharSet(25, 15); // sem efeito, o primeiro jogo já teve vencedor
